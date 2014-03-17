@@ -1,0 +1,3 @@
+[submodule "wearscript-eyetracking"]
+	path = wearscript-eyetracking
+	url = https://github.com/wearscript/wearscript-eyetracking.git
